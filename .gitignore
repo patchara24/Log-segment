@@ -1,4 +1,4 @@
-./runs
-./train
+runs
+train
 yolo11l-seg.pt
 yolo11n.pt
