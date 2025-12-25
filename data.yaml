@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['large', 'medium', 'small']
+
+roboflow:
+  workspace: ai-detection-s0ooq
+  project: wood_segment-jnphq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ai-detection-s0ooq/wood_segment-jnphq/dataset/1
